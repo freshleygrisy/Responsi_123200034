@@ -1,0 +1,56 @@
+.judul{
+    margin-top: 100px;
+}
+
+.lebar{
+    width: 400px;
+    margin-right: 40%;
+}
+
+/* index */
+body {
+    background: linear-gradient(to right, #8f8b8b, #02337c);
+  }
+  
+  #tombol {
+    margin-top: 20px;
+  }
+  
+  /* login */
+  .container-login {
+    margin-top: 28px;
+    max-width: 390px;
+  }
+  
+  /* homepage */
+  .judul-homepage {
+    margin-bottom: -11px;
+    background-color: #02337c;
+    color: #ffffff;
+  }
+  
+  .welcome {
+    margin-top: 100px;
+  }
+  .user {
+    color: #022b68;
+    margin-top: 50px;
+  }
+  
+  /* inventaris */
+  .tambah-barang {
+    margin: 10px 0 10px 10px;
+  }
+  .container-inventaris {
+    max-width: 1190px;
+  }
+  
+  /* edit */
+  .judul-edit {
+    margin: 20px 0 -30px 0;
+  }
+  
+  .tb-isi {
+    margin-top: 10px;
+  }
+  
